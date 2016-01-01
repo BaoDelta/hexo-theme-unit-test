@@ -72,3 +72,15 @@ theme: bootstrap-lite
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+html_minifier:
+  enable: true
+
+css_minifier:
+  enable: true
+
+js_minifier:
+  enable: true
+
+image_minifier:
+  enable: true
